@@ -4,7 +4,7 @@
 
 ---
 
-### CATEGORIES
+### Categories
 
 * [Git](#git)
 * [Linux](#linux)

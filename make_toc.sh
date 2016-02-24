@@ -3,7 +3,7 @@
 # A carriage return
 CR=$'\n'
 
-CATEGORIES="### CATEGORIES$CR";
+CATEGORIES="### Categories$CR";
 ITEMS='';
 
 # Directories with spaces would have been broken up in to two items, this fixes that.
