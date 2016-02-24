@@ -4,29 +4,33 @@
 
 ---
 
-### Categories
+### CATEGORIES
 
 * [Git](#git)
 * [Linux](#linux)
+* [PHP](#php)
 
 
 ### Git
- - [Amend / replace author on old commits](git/amend-old-author.md)
- - [Change tab width when doing git diff](git/change-tab-width.md)
- - [Delete remote branch](git/delete-remote-branch.md)
- - [Display a pretty Git commit tree](git/pretty-commit-tree.md)
- - [Pull newest changes, replacing local files](git/pull-new-and-replace.md)
+ - [Amend / replace author on old commits](Git/amend-old-author.md)
+ - [Change tab width when doing git diff](Git/change-tab-width.md)
+ - [Delete remote branch](Git/delete-remote-branch.md)
+ - [Display a pretty Git commit tree](Git/pretty-commit-tree.md)
+ - [Pull newest changes, replacing local files](Git/pull-new-and-replace.md)
 
 ### Linux
- - [Append crontab row](linux/append-crontab.md)
- - [Change date of a file](linux/change-file-date.md)
- - [File manipulation using sed](linux/file-manipulation-using-sed.md)
- - [Find files by size](linux/find-by-size.md)
- - [Find largest X in path](linux/find-largest-stuff.md)
- - [Show external IP](linux/get-public-ip.md)
- - [Create gzip files of each subdirectory](linux/gzip-directories.md)
- - [Kill processes matching a string](linux/kill-by-string-match.md)
- - [Unhide lots of . files](linux/unhide-many-files.md)
+ - [Append crontab row](Linux/append-crontab.md)
+ - [Change date of a file](Linux/change-file-date.md)
+ - [File manipulation using sed](Linux/file-manipulation-using-sed.md)
+ - [Find files by size](Linux/find-by-size.md)
+ - [Find largest X in path](Linux/find-largest-stuff.md)
+ - [Show external IP](Linux/get-public-ip.md)
+ - [Create gzip files of each subdirectory](Linux/gzip-directories.md)
+ - [Kill processes matching a string](Linux/kill-by-string-match.md)
+ - [Unhide lots of . files](Linux/unhide-many-files.md)
+
+### PHP
+ - [Return value of isset, otherwise return default value](PHP/isSetOrDefault.md)
 
 
 ## Menu build script
