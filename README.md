@@ -30,20 +30,8 @@
 
 
 ## Menu build script
-```bash
-for d in `find . -type d -d 1 ! -path "./.git"`;
-do
-  GR=$(echo $d | sed 's/.\///g')
-  GR="$(tr '[:lower:]' '[:upper:]' <<< ${GR:0:1})${GR:1}"
-  echo \#\#\# $GR
-  for f in $d/*.md;
-  do
-    f=$(echo $f | sed 's/.\///')
-    echo " - [`head -n 1 $f | sed 's/# //g'`]($f)";
-  done
-  echo
-done
-```
+
+To quickly create the table of contents based on the .md files found, run ./make_toc.sh
 
 ## About
 
