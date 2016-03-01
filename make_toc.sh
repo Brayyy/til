@@ -14,14 +14,15 @@ IFS=$(echo -en "\n\b")
 for d in `find . -type d -d 1 ! -path "./.git"`;
 do
   # Strip off ./ from directory string
-  dirNoSlash=$(echo $d | sed 's/.\///g')
+  category=$(echo $d | sed 's/.\///g'| tr '_' ' ')
+  
   # Make category anchors
-  dirLowerWithDashes=$(echo $dirNoSlash | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
+  dirLowerWithDashes=$(echo $category | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
 
   # Add directory/category to categories
-  CATEGORIES="$CATEGORIES$CR* [$dirNoSlash](#$dirLowerWithDashes)";
+  CATEGORIES="$CATEGORIES$CR* [$category](#$dirLowerWithDashes)";
   # Add category header for directory
-  ITEMS="$ITEMS$CR### $dirNoSlash";
+  ITEMS="$ITEMS$CR### $category";
 
   # Test if there are .md files in directory
   if [ $(ls -l $d/*.md 2>/dev/null | wc -l) -gt 0 ];
