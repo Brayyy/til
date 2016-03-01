@@ -8,7 +8,9 @@
 
 * [Git](#git)
 * [Linux](#linux)
+* [OS X](#os-x)
 * [PHP](#php)
+* [Redis](#redis)
 
 
 ### Git
@@ -28,6 +30,12 @@
  - [Create gzip files of each subdirectory](Linux/gzip-directories.md)
  - [Kill processes matching a string](Linux/kill-by-string-match.md)
  - [Unhide lots of . files](Linux/unhide-many-files.md)
+
+### OS X
+ - [Delete a specific TimeMachine backup](OS_X/deleteATimeMachineBackup.md)
+ - [List USB (lsusb) for OSX](OS_X/lsusbForOSX.md)
+ - [Prevent sleep with Caffiene](OS_X/preventSleepWithCaffiene.md)
+ - [Text to speech using say](OS_X/textToSpeech.md)
 
 ### PHP
  - [Return value of isset, otherwise return default value](PHP/isSetOrDefault.md)
