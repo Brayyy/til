@@ -6,12 +6,17 @@
 
 ### Categories
 
+* [ELK Stack](#elk-stack)
 * [Git](#git)
 * [Linux](#linux)
 * [OS X](#os-x)
 * [PHP](#php)
 * [Redis](#redis)
 
+
+### ELK Stack
+ - [Change ElasticSearch index replica quantity](ELK_Stack/changeReplicaQuantity.md)
+ - [Manually assign shards to nodes](ELK_Stack/manualShardAssignment.md)
 
 ### Git
  - [Amend / replace author on old commits](Git/amend-old-author.md)
@@ -29,6 +34,7 @@
  - [Show external IP](Linux/get-public-ip.md)
  - [Create gzip files of each subdirectory](Linux/gzip-directories.md)
  - [Kill processes matching a string](Linux/kill-by-string-match.md)
+ - [Make JSON pretty using Python's json.tool](Linux/pythonJsonTool.md)
  - [Unhide lots of . files](Linux/unhide-many-files.md)
 
 ### OS X
