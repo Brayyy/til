@@ -15,10 +15,11 @@
 
 
 ### ELK Stack
- - [Change ElasticSearch index replica quantity](ELK_Stack/changeReplicaQuantity.md)
- - [Manually assign shards to nodes](ELK_Stack/manualShardAssignment.md)
+ - [Change ElasticSearch index replica quantity](ELK_Stack/change-replica-quantity.md)
+ - [Manually assign shards to nodes](ELK_Stack/manual-shard-assignment.md)
 
 ### Git
+ - [Amend last commit message from command line](Git/amend-last-commit.md)
  - [Amend / replace author on old commits](Git/amend-old-author.md)
  - [Change tab width when doing git diff](Git/change-tab-width.md)
  - [Delete remote branch](Git/delete-remote-branch.md)
@@ -34,20 +35,20 @@
  - [Show external IP](Linux/get-public-ip.md)
  - [Create gzip files of each subdirectory](Linux/gzip-directories.md)
  - [Kill processes matching a string](Linux/kill-by-string-match.md)
- - [Make JSON pretty using Python's json.tool](Linux/pythonJsonTool.md)
+ - [Make JSON pretty using Python's json.tool](Linux/python-json-tool.md)
  - [Unhide lots of . files](Linux/unhide-many-files.md)
 
 ### OS X
- - [Delete a specific TimeMachine backup](OS_X/deleteATimeMachineBackup.md)
- - [List USB (lsusb) for OSX](OS_X/lsusbForOSX.md)
- - [Prevent sleep with Caffiene](OS_X/preventSleepWithCaffiene.md)
- - [Text to speech using say](OS_X/textToSpeech.md)
+ - [Delete a specific TimeMachine backup](OS_X/delete-a-time-machine-backup.md)
+ - [List USB (lsusb) for OSX](OS_X/lsusb-for-OSX.md)
+ - [Prevent sleep with Caffiene](OS_X/prevent-sleep-with-caffiene.md)
+ - [Text to speech using say](OS_X/text-to-speech.md)
 
 ### PHP
- - [Return value of isset, otherwise return default value](PHP/isSetOrDefault.md)
+ - [Return value of isset, otherwise return default value](PHP/isset-or-default.md)
 
 ### Redis
- - [Allow writes while bgsave is failing](Redis/allowWritesWhenBGSaveFails.md)
+ - [Allow writes while bgsave is failing](Redis/allow-writes-when-bgsave-fails.md)
 
 
 ## Menu build script
