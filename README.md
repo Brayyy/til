@@ -8,6 +8,7 @@
 
 * [ELK Stack](#elk-stack)
 * [Git](#git)
+* [Javascript](#javascript)
 * [Linux](#linux)
 * [OS X](#os-x)
 * [PHP](#php)
@@ -25,6 +26,9 @@
  - [Delete remote branch](Git/delete-remote-branch.md)
  - [Display a pretty Git commit tree](Git/pretty-commit-tree.md)
  - [Pull newest changes, replacing local files](Git/pull-new-and-replace.md)
+
+### Javascript
+ - [Restore a modified console object](Javascript/restore-modified-console.md)
 
 ### Linux
  - [Append crontab row](Linux/append-crontab.md)
