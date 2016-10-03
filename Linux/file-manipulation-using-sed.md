@@ -21,7 +21,12 @@ Strip all lines that start with hash / # from a file
 $ sed -i '/^#/d' file.txt
 ```
 
-Remove the line containing the string "blah":
+Remove lines containing the string "blah":
 ```bash
 $ sed '/blah/d' file.txt
+```
+
+Remove lines not containing the string "blah":
+```bash
+$ sed -n '/blah/p' file.txt
 ```
