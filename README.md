@@ -40,6 +40,7 @@
  - [Create gzip files of each subdirectory](Linux/gzip-directories.md)
  - [Kill processes matching a string](Linux/kill-by-string-match.md)
  - [Make JSON pretty using Python's json.tool](Linux/python-json-tool.md)
+ - [Redirect IPs requests](Linux/redirect-ip-requests.md)
  - [Unhide lots of . files](Linux/unhide-many-files.md)
 
 ### OS X
