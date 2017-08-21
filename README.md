@@ -41,6 +41,7 @@
  - [Kill processes matching a string](Linux/kill-by-string-match.md)
  - [Make JSON pretty using Python's json.tool](Linux/python-json-tool.md)
  - [Redirect IPs requests](Linux/redirect-ip-requests.md)
+ - [Bulk restore missing file extensions](Linux/restore-missing-file-extensions.md)
  - [Unhide lots of . files](Linux/unhide-many-files.md)
 
 ### OS X
