@@ -1,5 +1,4 @@
-# Make JSON pretty using Python's json.tool
-
+# Use Python to make JSON pretty
 
 Output without JSON pretty:
 ```bash
