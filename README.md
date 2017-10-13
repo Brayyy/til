@@ -28,6 +28,7 @@
  - [Pull newest changes, replacing local files](Git/pull-new-and-replace.md)
 
 ### Javascript
+ - [Check for the existence of something in a deeply nested object](Javascript/check-in-deeply-nested-objects.md)
  - [Restore a modified console object](Javascript/restore-modified-console.md)
 
 ### Linux
