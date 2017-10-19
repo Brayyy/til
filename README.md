@@ -33,6 +33,7 @@
 
 ### Linux
  - [Append crontab row](Linux/append-crontab.md)
+ - [Bulk rename files using bash](Linux/bulk-rename-files-using-bash.md)
  - [Change date of a file](Linux/change-file-date.md)
  - [File manipulation using sed](Linux/file-manipulation-using-sed.md)
  - [Find files by size](Linux/find-by-size.md)
