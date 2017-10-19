@@ -1,8 +1,4 @@
-# TIL
-
-> Today I Learned
-
----
+# Today I Learned / Cheat sheet
 
 ### Categories
 
@@ -50,6 +46,7 @@
  - [Unhide lots of . files](Linux/unhide-many-files.md)
 
 ### OS X
+ - [Change network mac address](OS_X/change-network-mac-address.md)
  - [Delete a specific TimeMachine backup](OS_X/delete-a-time-machine-backup.md)
  - [List USB (lsusb) for OSX](OS_X/lsusb-for-OSX.md)
  - [Prevent sleep with Caffiene](OS_X/prevent-sleep-with-caffiene.md)
