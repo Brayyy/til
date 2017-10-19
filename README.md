@@ -46,6 +46,7 @@
  - [Use Python to make JSON pretty](Linux/python-json-tool.md)
  - [Redirect IPs requests](Linux/redirect-ip-requests.md)
  - [Bulk restore missing file extensions](Linux/restore-missing-file-extensions.md)
+ - [Sorted file diff](Linux/sorted-file-diff.md)
  - [Unhide lots of . files](Linux/unhide-many-files.md)
 
 ### OS X
