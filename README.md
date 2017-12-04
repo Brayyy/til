@@ -37,6 +37,7 @@
  - [Show external IP](Linux/get-public-ip.md)
  - [Get a server/instance physical memory](Linux/get-server-physical-memory.md)
  - [Create gzip files of each subdirectory](Linux/gzip-directories.md)
+ - [Generate a histogram using awk](Linux/histogram-using-awk.md)
  - [Kill processes matching a string](Linux/kill-by-string-match.md)
  - [Use Python to create a minimal HTTP server](Linux/python-http-server.md)
  - [Use Python to make JSON pretty](Linux/python-json-tool.md)
