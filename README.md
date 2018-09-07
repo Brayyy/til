@@ -6,6 +6,7 @@
 * [Git](#git)
 * [Javascript](#javascript)
 * [Linux](#linux)
+* [Misc](#misc)
 * [OS X](#os-x)
 * [PHP](#php)
 * [Redis](#redis)
@@ -45,6 +46,9 @@
  - [Bulk restore missing file extensions](Linux/restore-missing-file-extensions.md)
  - [Sorted file diff](Linux/sorted-file-diff.md)
  - [Unhide lots of . files](Linux/unhide-many-files.md)
+
+### Misc
+ - [Run a single rule with ESLint](Misc/run-single-rule-with-eslint.md)
 
 ### OS X
  - [Change network mac address](OS_X/change-network-mac-address.md)

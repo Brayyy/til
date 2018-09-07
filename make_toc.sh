@@ -11,7 +11,7 @@ SAVEIFS=$IFS
 IFS=$(echo -en "\n\b")
 
 # For each directory, excluding .git
-for d in `find . -type d -d 1 ! -path "./.git"`;
+for d in `find . -type d -d 1 ! -path "./.git" | sort`;
 do
   # Strip off ./ from directory string
   category=$(echo $d | sed 's/.\///g'| tr '_' ' ')
