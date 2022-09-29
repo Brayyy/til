@@ -9,6 +9,7 @@
 * [Misc](#misc)
 * [OS X](#os-x)
 * [PHP](#php)
+* [Python](#python)
 * [Redis](#redis)
 
 
@@ -40,8 +41,6 @@
  - [Create gzip files of each subdirectory](Linux/gzip-directories.md)
  - [Generate a histogram using awk](Linux/histogram-using-awk.md)
  - [Kill processes matching a string](Linux/kill-by-string-match.md)
- - [Use Python to create a minimal HTTP server](Linux/python-http-server.md)
- - [Use Python to make JSON pretty](Linux/python-json-tool.md)
  - [Redirect IPs requests](Linux/redirect-ip-requests.md)
  - [Bulk restore missing file extensions](Linux/restore-missing-file-extensions.md)
  - [Sorted file diff](Linux/sorted-file-diff.md)
@@ -60,6 +59,10 @@
 ### PHP
  - [Return value of isset, otherwise return default value](PHP/isset-or-default.md)
 
+### Python
+ - [Use Python to create a minimal HTTP server](Python/python-http-server.md)
+ - [Use Python to make JSON pretty](Python/python-json-tool.md)
+
 ### Redis
  - [Allow writes while bgsave is failing](Redis/allow-writes-when-bgsave-fails.md)
 
@@ -74,6 +77,6 @@ I shamelessly stole this idea from [jbranchaud/til](https://github.com/jbranchau
 
 ## License
 
-&copy; 2015-2016 Bray Almini
+&copy; 2015-2022 Bray Almini
 
 This repository is licensed under the MIT license. See `LICENSE` for details.

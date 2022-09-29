@@ -1,4 +1,4 @@
-#!/usr/local/bin/bash
+#!/usr/bin/env zsh
 
 # A carriage return
 CR=$'\n'
@@ -41,6 +41,24 @@ do
   ITEMS="$ITEMS$CR";
 done
 
-echo "$CATEGORIES";
-echo;
-echo "$ITEMS";
+cat <<EOF
+# Today I Learned / Cheat sheet
+
+$CATEGORIES
+
+$ITEMS
+
+## Menu build script
+
+To quickly create the table of contents based on the .md files found, run ./make_toc.sh
+
+## About
+
+I shamelessly stole this idea from [jbranchaud/til](https://github.com/jbranchaud/til), who shamelessly stole it from [thoughtbot/til](https://github.com/thoughtbot/til).
+
+## License
+
+&copy; 2015-$(date +%Y) Bray Almini
+
+This repository is licensed under the MIT license. See \`LICENSE\` for details.
+EOF
