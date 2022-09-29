@@ -60,6 +60,7 @@
  - [Return value of isset, otherwise return default value](PHP/isset-or-default.md)
 
 ### Python
+ - [Conditional exception handling](Python/conditional-try-except.md)
  - [Use Python to create a minimal HTTP server](Python/python-http-server.md)
  - [Use Python to make JSON pretty](Python/python-json-tool.md)
 
