@@ -2,6 +2,7 @@
 
 ### Categories
 
+* [AWS](#aws)
 * [ELK Stack](#elk-stack)
 * [Git](#git)
 * [Javascript](#javascript)
@@ -12,6 +13,9 @@
 * [Python](#python)
 * [Redis](#redis)
 
+
+### AWS
+ - [Count objects in S3 bucket](AWS/count-objects-in-s3-bucket.md)
 
 ### ELK Stack
  - [Change ElasticSearch index replica quantity](ELK_Stack/change-replica-quantity.md)
