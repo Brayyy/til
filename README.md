@@ -31,6 +31,7 @@
 
 ### Javascript
  - [Check for the existence of something in a deeply nested object](Javascript/check-in-deeply-nested-objects.md)
+ - [Convert string to a bit string / array](Javascript/convert-string-to-bit-string-array.md)
  - [Increment and initialize counter](Javascript/increment-and-initialize-counter.md)
  - [Restore a modified console object](Javascript/restore-modified-console.md)
 
