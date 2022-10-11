@@ -10,6 +10,7 @@
 * [Misc](#misc)
 * [OS X](#os-x)
 * [PHP](#php)
+* [Photography](#photography)
 * [Python](#python)
 * [Redis](#redis)
 
@@ -65,6 +66,9 @@
 
 ### PHP
  - [Return value of isset, otherwise return default value](PHP/isset-or-default.md)
+
+### Photography
+ - [exiftool notes](Photography/exiftool-notes.md)
 
 ### Python
  - [Conditional exception handling](Python/conditional-try-except.md)
