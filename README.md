@@ -58,6 +58,7 @@
 ### OS X
  - [Change network mac address](OS_X/change-network-mac-address.md)
  - [Delete a specific TimeMachine backup](OS_X/delete-a-time-machine-backup.md)
+ - [Exclude something from Dropbox](OS_X/exclude-something-from-dropbox.md)
  - [List USB (lsusb) for OSX](OS_X/lsusb-for-OSX.md)
  - [Prevent sleep with Caffiene](OS_X/prevent-sleep-with-caffiene.md)
  - [Text to speech using say](OS_X/text-to-speech.md)
