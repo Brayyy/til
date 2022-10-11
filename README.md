@@ -77,6 +77,7 @@
 
 ### Redis
  - [Allow writes while bgsave is failing](Redis/allow-writes-when-bgsave-fails.md)
+ - [#Redis Lua Bitmap to binary](Redis/lua-bitmap-to-binary.md)
 
 
 ## Menu build script
